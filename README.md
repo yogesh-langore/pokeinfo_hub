@@ -26,15 +26,15 @@ Built using **Flutter**, **Riverpod**, **Hive**, and **REST API** following clea
 
 | Home | Search |
 |------|---------|
-| ![](screenshots/HomeScreen.png) | ![](screenshots/search.png) |
+| ![](screenshots/HomeScreen.jpg) | ![](screenshots/SearchScreen.jpg) |
 
 | Filter | Details |
 |------|---------|
-| ![](screenshots/filter.png) | ![](screenshots/detail.png) |
+| ![](screenshots/FilterScreen.jpg) | ![](screenshots/DetailScreen.jpg) |
 
 | Favorites | Dark Mode |
 |------|---------|
-| ![](screenshots/favorites.png) | ![](screenshots/dark_mode.png) |
+| ![](screenshots/FavoriteScreen.jpg) | ![](screenshots/DarkModeScreen.jpg) |
 
 ---
 
