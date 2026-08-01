@@ -32,6 +32,7 @@ Built using **Flutter**, **Riverpod**, **Hive**, and **REST API** following clea
   <tr>
     <td><img src="screenshots/HomeScreen.jpg" width="250"></td>
     <td><img src="screenshots/SearchScreen.jpg" width="250"></td>
+    <td><img src="screenshots/DarkModeScreen.jpg" width="250"></td>
   </tr>
 
   <tr>
@@ -41,15 +42,11 @@ Built using **Flutter**, **Riverpod**, **Hive**, and **REST API** following clea
   <tr>
     <td><img src="screenshots/FilterScreen.jpg" width="250"></td>
     <td><img src="screenshots/DetailScreen.jpg" width="250"></td>
-  </tr>
-
-  <tr>
+    <td><img src="screenshots/FavoriteScreen.jpg" width="250"></td>
     <th>Favorites</th>
     <th>Dark Mode</th>
   </tr>
   <tr>
-    <td><img src="screenshots/FavoriteScreen.jpg" width="250"></td>
-    <td><img src="screenshots/DarkModeScreen.jpg" width="250"></td>
   </tr>
 </table>
 ---
