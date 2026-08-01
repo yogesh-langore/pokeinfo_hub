@@ -24,18 +24,34 @@ Built using **Flutter**, **Riverpod**, **Hive**, and **REST API** following clea
 
 ## 📸 Screenshots
 
-| Home | Search |
-|------|---------|
-| ![](screenshots/HomeScreen.jpg) | ![](screenshots/SearchScreen.jpg) |
+<table>
+  <tr>
+    <th>Home</th>
+    <th>Search</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/HomeScreen.jpg" width="250"></td>
+    <td><img src="screenshots/SearchScreen.jpg" width="250"></td>
+  </tr>
 
-| Filter | Details |
-|------|---------|
-| ![](screenshots/FilterScreen.jpg) | ![](screenshots/DetailScreen.jpg) |
+  <tr>
+    <th>Filter</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/FilterScreen.jpg" width="250"></td>
+    <td><img src="screenshots/DetailScreen.jpg" width="250"></td>
+  </tr>
 
-| Favorites | Dark Mode |
-|------|---------|
-| ![](screenshots/FavoriteScreen.jpg) | ![](screenshots/DarkModeScreen.jpg) |
-
+  <tr>
+    <th>Favorites</th>
+    <th>Dark Mode</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/FavoriteScreen.jpg" width="250"></td>
+    <td><img src="screenshots/DarkModeScreen.jpg" width="250"></td>
+  </tr>
+</table>
 ---
 
 ## 🛠 Tech Stack
